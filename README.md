@@ -1,5 +1,8 @@
 # React Practice: **_Refactored Matching Number Game_**
 
+## Demo: :bike:
+https://slothpete7773.github.io/matching-number/
+
 ## Purpose: :dart:
 
 This is a refactored version of the previous Matching Number game.
